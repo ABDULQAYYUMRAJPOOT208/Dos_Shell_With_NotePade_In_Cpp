@@ -1,0 +1,8 @@
+NewRoot
+f1\f2\a.txt\
+f1\f2\b.txt\
+f1\f2\c.txt\
+f1\f2\d.txt\
+f1\f2\e.txt\
+root.cpp\
+f3\third.exe\

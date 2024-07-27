@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Third Semester\Dsa\firstTry - Dos_Shell\Dos1\Tree.h(136,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Third Semester\Dsa\firstTry - Dos_Shell\Dos1\Dos.h(238,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Third Semester\Dsa\firstTry - Dos_Shell\Dos1\Dos.h(592,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Third Semester\Dsa\firstTry - Dos_Shell\Dos1\Dos.h(518): warning C4715: 'Dos::menu': not all control paths return a value
+D:\Third Semester\Dsa\firstTry - Dos_Shell\Dos1\Folder.h(139): warning C4715: 'folder::FindFunction': not all control paths return a value
+D:\Third Semester\Dsa\firstTry - Dos_Shell\Dos1\Folder.h(177): warning C4715: 'folder::deepFind': not all control paths return a value
+  Dos1.vcxproj -> D:\Third Semester\Dsa\firstTry - Dos_Shell\Dos1\x64\Debug\Dos1.exe
